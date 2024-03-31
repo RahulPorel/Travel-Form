@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container-header {
+  padding: 23px;
+  margin: 15px auto;
+  max-width: 50%;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+.clg-name {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.container {
+  padding: 23px;
+  margin: 15px auto;
+  max-width: 50%;
+  color: white;
+  background: rgb(65, 59, 122);
+}
+#mu-img {
+  cursor: pointer;
+}
